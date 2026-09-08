@@ -1,0 +1,5 @@
+_pycacahe__/
+*.pyc
+.env
+data/
+.venv/
